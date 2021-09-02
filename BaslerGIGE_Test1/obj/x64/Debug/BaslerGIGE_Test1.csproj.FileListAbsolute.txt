@@ -1,0 +1,140 @@
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test1\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test2\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test4\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+E:\hyq key\BaslerGIGE_Test5\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test6\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe.config
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\BaslerGIGE_Test1.pdb
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\AsyncTCP.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\BaslerParameter.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\bin\x64\Debug\PylonC.NET.xml
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Camera_Form.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.exe
+C:\Users\Administrator\source\repos\BaslerGIGE_Test7\BaslerGIGE_Test1\obj\x64\Debug\BaslerGIGE_Test1.pdb
